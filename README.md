@@ -1,7 +1,5 @@
-# Code Institute
+# Django Blog
 
-Welcome lesreddy,
+A simple blog project
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+[![Build Status](https://travis-ci.org/lesreddy/django-blog.svg?branch=master)](https://travis-ci.org/lesreddy/django-blog)
